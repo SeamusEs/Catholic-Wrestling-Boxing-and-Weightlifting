@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Who we are - Catholic Wrestling Boxing and Weightlifting</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="cwbw.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    
+  </style>
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row content">
+    <div class="col-sm-3 sidenav">
+      <h4>Catholic Wrestling Boxing and Weightlifting</h4>
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="#section1">Who we are</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="links.html">Links</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="books.html">Books</a></li>
+      </ul><br>
+    </div>
+
+    <div class="col-sm-9">
+      <h1><small>Who are we?</small></h1>
+	  <p>
+	  Muscular Catholicism wants men within in our ranks to be spiritually and physically strong. 
+	  We believe strengthening the mind, body, and spirit is conducive to the overall well being of man. 
+	  We also believe it is important to exhibit strength rather than weakness 
+	  <br>
+	  These masculine virtues were considered traditional and a part of Western Culture up until a generation ago. 
+	  Though the degradation of Western Masculinity goes back than the Cultural Revolution of the 1960's 
+	  and the answer isn't to LARP a slighty older era (i.e. we're not The Art of Maniliness.)
+	  <br>
+	  The answer isn't as simple as "be a good boy, get a good education, get a good job, find and marry a good girl, and have 1.5 kids..." 
+	  Life is a bit more complex than that and having a culture is more than finding your place in the scheme of base materialism.
+	  Also we here at Catholic Wrestling Boxing and Weightlifting are made up of working Joes for whom economic reality cuts closer to the bone.
+	  <br>
+	  "What does this have to do with wrestling, boxing, or weightlifting?" 
+	  <br>
+	  Many today take a false refuge in cyberspace or the intellectual sphere, but man is not all soul and no body.
+	  Moral decay can seep in through physical sloth. The average man will not be remedying this with simple readings, it is important to stay physically active, and to also cultivate useful skills.
+	  Also man problems in social interactions are caused by man not being able to handle himself, having a lack in his physical capabilities, or in physical cowardice. Note the number of young men who fall into alcohol or substance abuse because of mental tension or despair. 
+     <br>
+	  <tt>"Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility." — Saint Augustine</tt>
+
+  </div>
+</div>
+
+<footer class="container-fluid text-center">
+  <p>Copyright &copy; <br>
+      <a href = "">some-email@someplace.biz</a>
+	 </p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Who we are - Catholic Wrestling Boxing and Weightlifting</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="cwbw.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    
+  </style>
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row content">
+    <div class="col-sm-3 sidenav">
+      <h4>Catholic Wrestling Boxing and Weightlifting</h4>
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="#section1">Who we are</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="links.html">Links</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="books.html">Books</a></li>
+      </ul><br>
+    </div>
+
+    <div class="col-sm-9">
+      <h1><small>Who are we?</small></h1>
+	  <p>
+	  Muscular Catholicism wants men within in our ranks to be spiritually and physically strong. 
+	  We believe strengthening the mind, body, and spirit is conducive to the overall well being of man. 
+	  We also believe it is important to exhibit strength rather than weakness 
+	  in the face of enemies who are hostile to our way of life, values and Christian faith. <br>
+      <br>As practitioners of Muscular Catholicism we promote the traditional Catholic faith absent of the modernist perversions, 
+      we also promote the return of a masculine western attitude and values. We honor the spirit exhibited by our Crusader ancestors.<br>
+      <br>We advocate for Muscular Catholic men to get into a routine of prayer and study combined with physical training.
+      Our focus is strengthening and building the body of the Catholic man with weight/resistance training and sound nutrition. 
+      Also we promote studying and actively training in various fighting styles that one day may be used to defend ourselves, faith, 
+      or family from those who seek to do us harm.<br> 
+      <br>Interests often discussed among Muscular Catholics are weightlifting, 
+      bodybuilding, boxing, wrestling, martial arts (various forms), history, politics, nutrition, restoring and promoting masculinity.<br>
+      We welcome other honorable men thirsting for a strong faith and physical discipline to adopt the ways of the Muscular Catholic.  
+      In order to be in the Muscular Catholicism movement men must have a true interest in the study, 
+      defense, and preservation of the Catholic faith.<br>
+      <br>Men also must have a genuine interest in training their bodies and being students of the iron game or a martial art/fight style of their choice.  
+      The Muscular Catholic must also fully reject the poisonous ideas and modernist forces seeking to destroy western and Christian tradition, 
+      culture and values. Examples such as feminism, neo Babelism, new age, lgbtq movement, ect.
+	  </p>
+      <br>
+	  <br>
+	  <tt>"Do you wish to rise? Begin by descending. You plan a tower that will pierce the clouds? Lay first the foundation of humility." — Saint Augustine</tt>
+
+  </div>
+</div>
+
+<footer class="container-fluid text-center">
+  <p>Copyright &copy; <br>
+      <a href = "">some-email@someplace.biz</a>
+	 </p>
+</footer>
+
+</body>
+</html>
